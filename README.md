@@ -1,6 +1,10 @@
 # Sons of the forest NPC reviver
 - English: A small script written in Powershell for easy revival of Kelvin or/and Viriginia
-- Deutsch: Ein kleines, in Powershell geschriebenes Skript zur einfachen Wiederbelebung von Kelvin oder/und Viriginia
+- German: Ein kleines, in Powershell geschriebenes Skript zur einfachen Wiederbelebung von Kelvin oder/und Viriginia
+
+# Support & Feedback
+- English: If you like the tool or have feedback, you can join my Discord at https://sirbash.com.
+- German: Wenn Sie das Tool mögen oder Feedback haben, können Sie meinem Discord unter https://sirbash.com beitreten.
 
 # Prepare / Vorbereitung
 ## English: How to download the script and unlock it
@@ -13,7 +17,7 @@
 - Allow the file by selecting the checkbox in the right bottom corner.
 - Click OK to save the change.
 
-## Deutsch: So laden Sie das Skript herunter und schalten es frei
+## German: So laden Sie das Skript herunter und schalten es frei
 - Klicken Sie auf die grüne Schaltfläche "Code", um das Dropdown-Menü anzuzeigen.
 - Wählen Sie "ZIP herunterladen", um das ZIP-Archiv herunterzuladen.
 - Navigieren Sie zu dem Ort auf Ihrem Computer, an dem Sie das ZIP-Archiv speichern möchten, und klicken Sie auf "Speichern".
@@ -24,7 +28,7 @@
 - Klicken Sie auf OK, um die Änderung zu speichern.
 
 # Use / Vewendung
-## How to use the script
+## English: How to use the script
 - Launch Sons of the Forest.
 - Save the game again by performing the in-game save operation. (The script will automaticly look for the newest savegame)
 - Close the game or quit it completely.
@@ -34,7 +38,7 @@
 - Reopen Sons of the Forest and load the last saved game.
 - Virginia and Kelvin are alive again
 
-## Nutzung des Skripts
+## German: Nutzung des Skripts
 - Starten Sie Sons of the Forest.
 - Speichern Sie das Spiel erneut, indem Sie den Speichervorgang im Spiel durchführen. (Das Skript sucht automatisch nach dem neusten Savegame)
 - Schließen Sie das Spiel oder beenden Sie es vollständig.
