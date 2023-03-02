@@ -4,7 +4,7 @@
 
 # Support & Feedback
 - English: If you like the tool or have feedback, you can join my Discord at https://sirbash.com.
-- German: Wenn Sie das Tool mögen oder Feedback haben, können Sie meinem Discord unter https://sirbash.com beitreten.
+- German: Wenn Sie das Tool mögen oder Feedback haben, können Sie meinem Discord unter https://letsbash.de beitreten.
 
 # STEP 1: Prepare / Vorbereitung
 ## English: How to download the script and unlock it
