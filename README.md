@@ -1,4 +1,4 @@
-# SonsOfTheForestNPCreviver
+# Sons of the forest NPC reviver
 English: A small script written in Powershell for easy revival of Kelvin or/and Viriginia
 Deutsch: Ein kleines, in Powershell geschriebenes Skript zur einfachen Wiederbelebung von Kelvin oder/und Viriginia
 
