@@ -119,7 +119,7 @@ function reviveAll {
     }
     else {
         $find = '[\\]["]Actors[\\]["][:][\[]'
-        $replace = '\"Actors\":[{\"UniqueId\":709,\"TypeId\":10,\"FamilyId\":0,\"Position\":{\"x\":-543.530334,\"y\":125.27742,\"z\":419.568665},\"Rotation\":{\"x\":0.0,\"y\":0.990344,\"z\":0.0,\"w\":0.1386319},\"SpawnerId\":-1797797444,\"ActorSeed\":787901937,\"VariationId\":0,\"State\":2,\"GraphMask\":1,\"EquippedItems\":null,\"OutfitId\":-1,\"NextGiftTime\":0.0,\"LastVisitTime\":-100.0,\"Stats\":{\"Health\":120.0,\"Anger\":0.0,\"Fear\":0.0,\"Fullness\":0.0,\"Hydration\":0.0,\"Energy\":90.5,\"Affection\":0.0},\"StateFlags\":0}'
+        $replace = '\"Actors\":[{\"UniqueId\":709,\"TypeId\":10,\"FamilyId\":0,\"Position\":{\"x\":-543.530334,\"y\":125.27742,\"z\":419.568665},\"Rotation\":{\"x\":0.0,\"y\":0.990344,\"z\":0.0,\"w\":0.1386319},\"SpawnerId\":-1797797444,\"ActorSeed\":787901937,\"VariationId\":0,\"State\":2,\"GraphMask\":1,\"EquippedItems\":null,\"OutfitId\":-1,\"NextGiftTime\":0.0,\"LastVisitTime\":-100.0,\"Stats\":{\"Health\":120.0,\"Anger\":0.0,\"Fear\":0.0,\"Fullness\":0.0,\"Hydration\":0.0,\"Energy\":90.5,\"Affection\":0.0},\"StateFlags\":0},'
         $content = $content -replace $find, $replace
         write-host ($SaveDataPath + " type id 10 (Virginia) was not found in the savegame: adding with unique id 709 on the beginning of actors") -ForegroundColor yellow -BackgroundColor Black
     }
