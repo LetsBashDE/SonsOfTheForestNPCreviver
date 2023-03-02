@@ -6,7 +6,7 @@
 - English: If you like the tool or have feedback, you can join my Discord at https://sirbash.com.
 - German: Wenn Sie das Tool mögen oder Feedback haben, können Sie meinem Discord unter https://sirbash.com beitreten.
 
-# Prepare / Vorbereitung
+# STEP 1: Prepare / Vorbereitung
 ## English: How to download the script and unlock it
 - Click the green "Code" button to display the drop-down menu.
 - Select "Download ZIP" to download the ZIP archive.
@@ -27,7 +27,7 @@
 - Lassen Sie die Datei zu, indem Sie das Kontrollkästchen in der rechten unteren Ecke aktivieren.
 - Klicken Sie auf OK, um die Änderung zu speichern.
 
-# Use / Vewendung
+# STEP 2: Use / Vewendung
 ## English: How to use the script
 - Launch Sons of the Forest.
 - Save the game again by performing the in-game save operation. (The script will automaticly look for the newest savegame)
