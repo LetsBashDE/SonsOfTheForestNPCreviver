@@ -1,6 +1,6 @@
 # Sons of the forest NPC reviver
-- English: A small script written in Powershell for easy revival of Kelvin or/and Viriginia
-- German: Ein kleines, in Powershell geschriebenes Skript zur einfachen Wiederbelebung von Kelvin oder/und Viriginia
+- English: A small script written in Powershell for easy revival of Kelvin or/and Virginia
+- German: Ein kleines, in Powershell geschriebenes Skript zur einfachen Wiederbelebung von Kelvin oder/und Virginia
 
 # Support & Feedback
 - English: If you like the tool or have feedback, you can join my Discord at https://sirbash.com.
